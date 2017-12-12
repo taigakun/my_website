@@ -1,0 +1,88 @@
+html{
+	overflow-y:scroll;	
+}
+a, u {
+    text-decoration: none;
+}
+a:link { 
+	color: black; 
+}
+
+a:visited { 
+	color: black; 
+}
+a:hover { 
+	color: #336699;
+}
+a:active { 
+	color: #ff8000; 
+}
+
+.header{
+	position:relative;
+	height:100px;
+	font-size: 20px;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
+#home{
+	position:absolute;
+	top:50%;
+	left:15%;
+}
+#previous_work{
+	position:absolute;
+	top:50%;
+	left:28.5%;
+}
+
+#about_me{
+	position:absolute;
+	top:50%;
+	left:48%;
+}
+.line{
+	position: relative;
+	top: 105px;
+	width:50%;
+	color: #ff0000;
+}
+.line_one{
+	position: relative;
+	top:150px;
+	width:50%;
+	color: black;
+	
+}
+#title{
+	position: relative;
+	text-align: center;
+	top: 135px;
+	font-family: 'Cedarville Cursive', cursive;
+	font-size: 45px;
+}
+
+.photo{
+	position: relative;
+	text-align: center;
+	margin-top: 20%;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
+#gallely{
+	position:relative;
+	margin: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 40%;
+	height: 40%;
+	padding: 2%;
+	border: 0px;
+	background-color: black;
+}
+.space{
+	position: relative;
+	text-align: center;
+	top: 300px;
+	margin-bottom: 40%;
+}

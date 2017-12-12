@@ -1,0 +1,63 @@
+html{
+	overflow-y:scroll;	
+}
+a, u {
+    text-decoration: none;
+}
+html{
+	overflow-y:scroll;	
+}
+a, u {
+    text-decoration: none;
+}
+a:link { 
+	color: black; 
+}
+
+a:visited { 
+	color: black; 
+}
+a:hover { 
+	color: #336699;
+}
+a:active { 
+	color: #ff8000; 
+}
+
+.header{
+	position:relative;
+	height:100px;
+	font-size: 20px;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
+#home{
+	position:absolute;
+	top:50%;
+	left:15%;
+}
+#previous_work{
+	position:absolute;
+	top:50%;
+	left:28.5%;
+}
+
+#about_me{
+	position:absolute;
+	top:50%;
+	left:48%;
+}
+#who_me{
+	position: relative;
+	text-align: center;
+	top: 100px;
+	font-size: 25px;
+	font-family: 'Cedarville Cursive', cursive;
+}
+.context{
+	position: relative;
+	text-align: center;
+	top: 100px;
+	font-size: 20px;
+	font-family: 'Cedarville Cursive', cursive;
+}
